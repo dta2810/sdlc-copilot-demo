@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.databricks/
+.vscode/mcp.json
+.ai-dev-kit/
